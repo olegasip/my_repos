@@ -1,0 +1,23 @@
+{
+  "name": "my_repos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start:dev": "nodemon script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olegasip/my_repos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olegasip/my_repos/issues"
+  },
+  "homepage": "https://github.com/olegasip/my_repos#readme",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
