@@ -1,0 +1,2 @@
+console.log("11 Lorem ipsum dolor sit amet, consectetur adipisicing elit. At commodi, dolor expedita illo laboriosam nisi provident quaerat sunt. Aperiam, quae quos.");
+document.write("Lorem ipsum dolor sit amet, consectetur adipisicing elit. At commodi, dolor expedita illo laboriosam nisi provident quaerat sunt. Aperiam, quae quos.");
